@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [azharansari.surajpur@gmail.com](azharansari.surajpur@gmail.com)
-
 - 📫 How to reach me **azharansari.surajpur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
